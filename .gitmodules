@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "adehabitatHR"]
+	path = adehabitatHR
+	url = https://github.com/cran/adehabitatHR
+	shallow = true
+	registered = true
+[submodule "adehabitatHS"]
+	path = adehabitatHS
+	url = https://github.com/cran/adehabitatHS
+	shallow = true
+	registered = true
+[submodule "adehabitatLT"]
+	path = adehabitatLT
+	url = https://github.com/cran/adehabitatLT
+	shallow = true
+	registered = true
+[submodule "adehabitatMA"]
+	path = adehabitatMA
+	url = https://github.com/cran/adehabitatMA
+	shallow = true
+	registered = true
