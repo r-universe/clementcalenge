@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "adehabitatHR"]
 	path = adehabitatHR
 	url = https://github.com/clementcalenge/adehabitathr
-	shallow = true
-	registered = true
 [submodule "adehabitatHS"]
 	path = adehabitatHS
 	url = https://github.com/clementcalenge/adehabitaths
-	shallow = true
-	registered = true
 [submodule "adehabitatLT"]
 	path = adehabitatLT
 	url = https://github.com/clementcalenge/adehabitatlt
-	shallow = true
-	registered = true
 [submodule "adehabitatMA"]
 	path = adehabitatMA
 	url = https://github.com/clementcalenge/adehabitatma
-	shallow = true
-	registered = true
